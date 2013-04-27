@@ -1,0 +1,1 @@
+g++ -I"C:\opencv\build\include" -L"C:\opencv\build\x86\mingw\lib" webcam.cpp -lopencv_core245 -lopencv_highgui245 -lopencv_imgproc245 -o webcam
